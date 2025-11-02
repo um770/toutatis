@@ -39,7 +39,7 @@ toutatis -i instagramID -s instagramsessionid
 ## 📈 Example
 
 ```
-Informations about     : xxxusernamexxx
+Informations about     : luminous.arc.studio
 Full Name              : xxxusernamesxx | userID : 123456789
 Verified               : False | Is buisness Account : False
 Is private Account     : False
